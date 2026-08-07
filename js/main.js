@@ -50,7 +50,7 @@
       "Marrod Shinny",
       "Limpieza profesional",
       "Empresas",
-      "Hogares",
+      "Servicios especiales",
       "Atención al detalle",
       "Trabajo metódico",
       "Equipo capacitado",
